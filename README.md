@@ -1,4 +1,4 @@
-# Internship
+# Data Science Internship
 Tasks of the Prodigy infotech Data science internship
 
 # Task-01
